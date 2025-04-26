@@ -32,7 +32,13 @@ For a full demo, please reach out via **Telegram**:
 
 ## 💸 Source Code Price
 
-**6900 USDT** — _Fixed Price. No Negotiation._
+**8900 USDT** — _Fixed Price. No Negotiation._
+
+---
+## 🪙 Payment
+
+**ETH Wallet Address**:  
+`0xca707501d4b022D99Da59d4723332D3bFAde5B38`
 
 ---
 
@@ -42,12 +48,6 @@ If you need **custom functionality**, please provide a **detailed description** 
 
 ---
 
-## 🪙 Payment
-
-**ETH Wallet Address**:  
-`0xca707501d4b022D99Da59d4723332D3bFAde5B38`
-
----
 
 > ⚠️ _Use responsibly and ensure full compliance with WhatsApp's terms of service. Unauthorized use may violate platform policies._
 
