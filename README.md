@@ -27,6 +27,7 @@ A powerful **Google Chrome extension** that fully automates **WhatsApp Web** ope
 
 For a full demo, please reach out via **Telegram**:  
 **[@LucasSex69](https://t.me/LucasSex69)**
+https://demo.staraiit.com
 
 ---
 
