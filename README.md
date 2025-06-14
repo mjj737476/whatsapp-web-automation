@@ -34,7 +34,8 @@ Demo **https://demo.staraiit.com**
 
 ## 💸 Source Code Price
 
-**8900 USDT** — _Fixed Price. No Negotiation._
+**12000 USDT** — _Fixed Price. No Negotiation._ Includes full source code only.
+**🛠 Technical support is charged separately._
 
 ---
 ## 🪙 Payment
