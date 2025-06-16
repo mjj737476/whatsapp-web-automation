@@ -1,6 +1,6 @@
 # WhatsApp Web Auto Messaging Plugin
 
-A powerful **Google Chrome extension** that fully automates **WhatsApp Web** operations. Perfect for managing group chats, automating workflows, and improving communication efficiency.
+This Project can fully automates **WhatsApp Web** operations. Perfect for managing group chats, automating workflows, and improving communication efficiency.
 
 ---
 
@@ -10,7 +10,7 @@ A powerful **Google Chrome extension** that fully automates **WhatsApp Web** ope
   Seamlessly receives and sends messages via WhatsApp Web with zero manual input.
 
 - **Group Message Monitoring**  
-  Monitors specific groups and reacts to targeted keywords or message patterns.
+  Send & Receive – Supports text video,voice and images messages to both personal contacts and groups
 
 - **Auto Add Friends**  
   Automatically adds new users as contacts based on defined triggers.
