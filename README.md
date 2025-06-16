@@ -1,4 +1,4 @@
-# WhatsApp Web Auto Messaging Plugin
+# WhatsApp Web Auto Messaging
 
 This Project can fully automates **WhatsApp Web** operations. Perfect for managing group chats, automating workflows, and improving communication efficiency.
 
