@@ -28,7 +28,7 @@ This Project can fully automates **WhatsApp Web** operations. Perfect for managi
 For a full demo, please reach out via **Telegram**:  
 **[@LucasSex69](https://t.me/LucasSex69)**
 
-Demo **https://demo.staraiit.com**
+Demo **https://api.staraiit.com**
 
 ---
 
